@@ -67,6 +67,8 @@ public class PrimaryController {
         
     }
 
+    
+
     public ObservableList<String> folderStructure(int indent, Directory directory, ObservableList<String> items) {
         StringBuilder sb = new StringBuilder();
 
